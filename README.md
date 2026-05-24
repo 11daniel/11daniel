@@ -1,5 +1,5 @@
 # 💫 About Me:
-BS Computer Science Major in Software Technology Minor in Cybersecurity student at De La Salle University.<br>AI Intern @ Stratpoint Technologies
+BS Computer Science Major in Software Technology Minor in Cybersecurity student at De La Salle University.<br>Former AI Intern @ Stratpoint Technologies
 
 
 ## 🌐 Socials:
